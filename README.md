@@ -10,7 +10,7 @@ The application allows:
 - Add categories
 - Delete tasks
 - Delete categories
-- Change your profile picture.
+
 ## Built with 🛠️
 
 * [Create React App](https://facebook.github.io/create-react-app/docs/getting-started) - Frontend Framework 
@@ -27,7 +27,7 @@ development platform by Google
 
 
 ## Demo 🚀
-You can see the demo [here](https://task-manager-135a7.web.app/) 
+You can see the demo [here](special-task-manager.netlify.app) 
 
 ## Screenshots📌
 
@@ -35,14 +35,16 @@ You can see the demo [here](https://task-manager-135a7.web.app/)
 
 On this page the user can log in using their email and their password.
 
-![image](https://user-images.githubusercontent.com/59363092/83806283-93f5c080-a6b1-11ea-8378-0de948871674.png)
+![LoginScreen](https://github.com/user-attachments/assets/d9f75829-eb2e-49cc-81ec-b8f3acc19457)
+
 
 
 ### Register Page
 
 On this page the user can register by entering a name, their email and their password.
 
-![image](https://user-images.githubusercontent.com/59363092/83806381-b556ac80-a6b1-11ea-8116-cb33b8c81ea3.png)
+![RegisterPage](https://github.com/user-attachments/assets/5b1003bb-c7e7-48e9-85a3-befe2ce59022)
+
 
 ### App Page
 
@@ -50,23 +52,28 @@ Once the user has logged in, he can access the main page of the application. In 
 
 #### Main image:
 
-![image](https://user-images.githubusercontent.com/59363092/83806492-e0d99700-a6b1-11ea-8886-ac4244e783e6.png)
+![MainPage](https://github.com/user-attachments/assets/c6bc9d80-d531-4e85-b8e4-6bba147123f7)
+
 
 #### Adding a new category:
 
-![image](https://user-images.githubusercontent.com/59363092/83806532-f2bb3a00-a6b1-11ea-9a70-6b2f00518c6f.png)
+![Category](https://github.com/user-attachments/assets/ace8bcfd-3c9a-48d9-a994-0feedea19ae2)
+
 
 #### Adding a new task:
 
-![image](https://user-images.githubusercontent.com/59363092/83806641-2007e800-a6b2-11ea-8fff-1d3d9a41ffc6.png)
+![Task](https://github.com/user-attachments/assets/06bb25b4-355c-4e3e-af37-cd3b2e220c04)
+
 
 #### New example category:
 
-![image](https://user-images.githubusercontent.com/59363092/83806747-4a59a580-a6b2-11ea-8f5d-4f01fe669658.png)
+![TaskCat_Example](https://github.com/user-attachments/assets/22b51564-5250-4053-a6b6-d21332a65242)
+
 
 #### Deleting a category:
 
-![image](https://user-images.githubusercontent.com/59363092/83806834-60676600-a6b2-11ea-8618-98aa73768ebc.png)
+![DeleteCat](https://github.com/user-attachments/assets/9b549cd6-0a56-4243-b688-7814e2b3c175)
+
 
 
 
