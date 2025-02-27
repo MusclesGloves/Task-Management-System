@@ -27,7 +27,7 @@ development platform by Google
 
 
 ## Demo 🚀
-You can see the demo [here](special-task-manager.netlify.app) 
+You can see the demo [here](https://67c0614d6ee0fb00082efd05--special-task-manager.netlify.app/login) 
 
 ## Screenshots📌
 
