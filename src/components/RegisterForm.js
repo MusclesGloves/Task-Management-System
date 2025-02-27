@@ -7,7 +7,7 @@ class RegisterForm extends Component {
     render() {
         const {handleSubmit } = this.props
         return (
-            <form className="card px-5 py-3" style={{minWidth:"372px"}} onSubmit={handleSubmit}>
+            <form className="card px-5 py-3" style={{minWidth:"372px",backgroundColor: 'aliceblue',borderRadius: '30px'}} onSubmit={handleSubmit}>
                 <h3 className="p-2 display-4" style={{textAlign:"center"}}>REGISTER</h3>
                 <div className="form-group p-2">
                     <label>NAME AND SURNAME</label>
