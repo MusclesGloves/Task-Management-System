@@ -1,6 +1,6 @@
 # Task-Manager
 
-This project is a simple to-do list developed with ReactJS, Redux and Firebase.
+This Task Manager application is designed to help users efficiently organize, track, and manage their tasks. This app allows users to create, update, and delete tasks while providing useful features such as categorization, prioritization, and deadlines.
 
 The application allows:
 - Register as a user
@@ -74,8 +74,9 @@ Once the user has logged in, he can access the main page of the application. In 
 
 ![DeleteCat](https://github.com/user-attachments/assets/9b549cd6-0a56-4243-b688-7814e2b3c175)
 
-
-
+🛠️ Technologies Used
+Frontend: React Redux
+Backend & Database authentication : Firestore and Firebase
 
 ## How to use this code ⚙️
 
