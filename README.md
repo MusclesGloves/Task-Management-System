@@ -74,9 +74,9 @@ Once the user has logged in, he can access the main page of the application. In 
 
 ![DeleteCat](https://github.com/user-attachments/assets/9b549cd6-0a56-4243-b688-7814e2b3c175)
 
-🛠️ Technologies Used
-Frontend: React Redux
-Backend & Database authentication : Firestore and Firebase
+## Technologies Used  🛠️
+- Frontend: React Redux
+- Backend & Database authentication : Firestore and Firebase
 
 ## How to use this code ⚙️
 
