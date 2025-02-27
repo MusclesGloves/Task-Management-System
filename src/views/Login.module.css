@@ -1,0 +1,13 @@
+
+.TaskImg {
+    top: 125px;
+    height: 650px;
+    position: relative;
+    left: 800px;
+}
+
+.background {
+    background: antiquewhite;
+    height: 100vh;
+    display: flex;
+}

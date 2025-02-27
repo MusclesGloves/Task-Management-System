@@ -1,0 +1,17 @@
+.FormCard {
+    top: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    left: 300px;
+    position: absolute;
+    min-width: 372px;
+    background-color: aliceblue;
+}
+
+.Login {
+    text-align: center;
+}
+
+.Submit {
+    text-align: center;
+}
