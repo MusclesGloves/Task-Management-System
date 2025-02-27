@@ -14,7 +14,7 @@ class Login extends Component {
         return (
         <>
             <div className={styles.background} >
-                <img className={styles.TaskImg} src='/TaskMainImg.png'></img>
+                <img className={styles.TaskImg} src='/TaskMainImg.png' alt='No Img'></img>
                 <LoginForm onSubmit={login}/>
             </div>
         </>
