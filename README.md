@@ -25,10 +25,6 @@ development platform by Google
 * [Cloud Firestore](https://firebase.google.com/docs/firestore) - Non SQL database. Real-time updates, powerful queries, and automatic scaling.
 * [Cloud Storage](https://firebase.google.com/docs/storage) - Store and view user-generated content
 
-
-## Demo 🚀
-You can see the demo [here](https://67c0614d6ee0fb00082efd05--special-task-manager.netlify.app/login) 
-
 ## Screenshots📌
 
 ### Login Page
