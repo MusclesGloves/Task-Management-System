@@ -101,8 +101,3 @@ const firebaseConfig = {
 7. Finally you can run the react application with the command `npm start`. [More Info](https://facebook.github.io/create-react-app/docs/getting-started)
 
 
-
-
-## Authors ✒️
-**Javier Linares** - *Initial work* - [soyjavierlinares](https://github.com/soyjavierlinares)
-
